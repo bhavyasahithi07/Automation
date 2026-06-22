@@ -29,7 +29,7 @@ def loading_baseline():
     return baseline
 
 def viewing_baseline():
-    baseline=loading_baseline
+    baseline=loading_baseline()
     if not baseline:
         return
     

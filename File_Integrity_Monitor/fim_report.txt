@@ -1,0 +1,16 @@
+FILE INTEGRITY MONITOR-SCAN REPORT
+Scanned directory : C:\Users\bhavy\OneDrive\Documents\DSA
+Baseline created  : 2026-06-22T08:06:53.592159
+Scan timestamp    : 2026-06-22 08:15:56
+Files in baseline : 5
+Files now         : 5
+[NEW FILES]-0 found
+None
+
+[MODIFIED FILES]-1 found
+   SelectionSort.java
+
+  [DELETED FILES]-0 found
+None
+
+  SUMMARY: 1 ISSUE(S) DETECTED — Review findings above.
